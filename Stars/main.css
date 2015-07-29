@@ -1,0 +1,23 @@
+body{
+		 background-image: url("images/puppies.jpg");
+		
+		 background-attachment:fixed;
+		
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+.bod{
+		 background-color:#c0c0c0;
+		 width:75%;
+		 margin-left:auto;
+		 margin-right:auto;
+}
